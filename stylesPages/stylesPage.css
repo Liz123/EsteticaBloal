@@ -174,3 +174,9 @@ background-color: transparent;
 .mapa{
   border-radius: 3px;
 }
+.services{
+  font-size: 36px;
+  color: #CC33CC;
+  font-style: italic; 
+  padding-bottom: 8px;
+}
