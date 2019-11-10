@@ -67,12 +67,11 @@ color: white;
 }
 
 .contenedor2{
-    background-image: url("../imgs/otro.jpg");
 
-    padding-bottom: 18%;
-        border-top: 3px solid black;
+    padding-bottom: 25%;
+        border-top: 2px solid black;
 
-    border-bottom: 3px solid black;
+    border-bottom: 4px solid black;
 }
 .border1{
   font-size: 60px;
@@ -179,4 +178,24 @@ background-color: transparent;
   color: #CC33CC;
   font-style: italic; 
   padding-bottom: 9px;
+}
+.contenedor2 {   
+background-image: url("../imgs/otro.jpg");
+}
+.imagenes{
+  margin-top: 10px;
+
+}
+.imagenes img{
+  width: 88%;
+  height: 89%;
+    border-radius: 5px;
+
+
+}
+.contenedor5{
+     background: linear-gradient(to top,purple,black,black,black,purple);
+}
+.contenedor6{
+     background: linear-gradient(to bottom,purple,black,black,black,purple);
 }
